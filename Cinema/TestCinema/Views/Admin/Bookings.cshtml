@@ -1,0 +1,46 @@
+﻿@model IEnumerable<TestCinema.DBModels.Booking>
+
+@{
+    ViewBag.Title = "Bookings";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2  style=" position: center;
+        padding: 100px;
+        text-align: center;
+        background-color: whitesmoke;
+        font-size:100px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-size-adjust: 200% auto;">Bookings</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CreateBooking",null, new { @class = "btn btn-info btn-large" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProgramId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserId)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProgramId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserId)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "EditBooking", new { id=item.BookingId }, new { @class = "btn btn-info btn-large" }) 
+            @Html.ActionLink("Details", "DetailsBooking", new { id=item.BookingId }, new { @class = "btn btn-info btn-large" }) 
+            @Html.ActionLink("Delete", "DeleteBooking", new { id=item.BookingId }, new { @class = "btn btn-info btn-large" })
+        </td>
+    </tr>
+}
+
+</table>

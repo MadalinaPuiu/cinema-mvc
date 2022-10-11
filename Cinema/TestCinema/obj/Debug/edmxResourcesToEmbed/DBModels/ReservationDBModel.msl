@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CinemaDBModel2StoreContainer" CdmEntityContainer="CinemaDBEntities2">
+    <EntitySetMapping Name="MoviePrograms">
+      <EntityTypeMapping TypeName="CinemaDBModel2.MovieProgram">
+        <MappingFragment StoreEntitySet="MovieProgram">
+          <ScalarProperty Name="StartHour" ColumnName="StartHour" />
+          <ScalarProperty Name="Auditorium" ColumnName="Auditorium" />
+          <ScalarProperty Name="MovieId" ColumnName="MovieId" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MovieSchedules">
+      <EntityTypeMapping TypeName="CinemaDBModel2.MovieSchedule">
+        <MappingFragment StoreEntitySet="MovieSchedule">
+          <ScalarProperty Name="MaxSeatNr" ColumnName="MaxSeatNr" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Auditorium" ColumnName="Auditorium" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="MovieId" ColumnName="MovieId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reservations">
+      <EntityTypeMapping TypeName="CinemaDBModel2.Reservation">
+        <MappingFragment StoreEntitySet="Reservations">
+          <ScalarProperty Name="StartHour" ColumnName="StartHour" />
+          <ScalarProperty Name="SeatNr" ColumnName="SeatNr" />
+          <ScalarProperty Name="ReservationDate" ColumnName="ReservationDate" />
+          <ScalarProperty Name="MovieId" ColumnName="MovieId" />
+          <ScalarProperty Name="PhoneNr" ColumnName="PhoneNr" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,438 @@
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\TestCinema.dll.config
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\TestCinema.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\TestCinema.pdb
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\csc.exe
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\csc.exe.config
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\csc.rsp
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\csi.exe
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\csi.exe.config
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\csi.rsp
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.AppContext.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Console.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.IO.Compression.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.IO.Pipes.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Security.AccessControl.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Security.Claims.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.ValueTuple.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Xml.XPath.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\vbc.exe
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\vbc.exe.config
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\vbc.rsp
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\VBCSCompiler.exe
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\EntityFramework.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\EntityFramework.SqlServer.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\System.Web.Helpers.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\System.Web.Mvc.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\System.Web.Razor.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\System.Web.Webpages.Deployment.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\System.Web.Webpages.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\System.Web.Webpages.Razor.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\EntityFramework.xml
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\EntityFramework.SqlServer.xml
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\System.Web.Razor.xml
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\System.Web.Webpages.xml
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\System.Web.Webpages.Deployment.xml
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\System.Web.Webpages.Razor.xml
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\System.Web.Helpers.xml
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\System.Web.Mvc.xml
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\obj\Debug\TestCinema.csprojAssemblyReference.cache
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\obj\Debug\TestCinema.csproj.CoreCompileInputs.cache
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\obj\Debug\TestCinema.csproj.CopyComplete
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\obj\Debug\TestCinema.dll
+D:\Documents In D\proiect_ii\v1\exersare\TestCinema\TestCinema\obj\Debug\TestCinema.pdb
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\TestCinema.dll.config
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\TestCinema.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\TestCinema.pdb
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\csc.exe
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\csc.exe.config
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\csc.rsp
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\csi.exe
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\csi.exe.config
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\csi.rsp
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.AppContext.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Console.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.IO.Compression.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Security.Claims.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.ValueTuple.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\vbc.exe
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\vbc.exe.config
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\vbc.rsp
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\EntityFramework.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\EntityFramework.SqlServer.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\System.Web.Helpers.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\System.Web.Mvc.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\System.Web.Razor.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\System.Web.Webpages.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\System.Web.Webpages.Razor.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\EntityFramework.xml
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\EntityFramework.SqlServer.xml
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\System.Web.Razor.xml
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\System.Web.Webpages.xml
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\System.Web.Webpages.Razor.xml
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\System.Web.Helpers.xml
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\System.Web.Mvc.xml
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\obj\Debug\TestCinema.csproj.CoreCompileInputs.cache
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\obj\Debug\TestCinema.csproj.CopyComplete
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\obj\Debug\TestCinema.dll
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\obj\Debug\TestCinema.pdb
+C:\Users\Madalina\Downloads\azi\logCinema\TestCinema\TestCinema\obj\Debug\TestCinema.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\TestCinema.dll.config
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\TestCinema.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\TestCinema.pdb
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\csc.exe
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\csc.exe.config
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\csc.rsp
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\csi.exe
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\csi.exe.config
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\csi.rsp
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.AppContext.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Console.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.Compression.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.Pipes.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Claims.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.ValueTuple.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\vbc.exe
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\vbc.exe.config
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\vbc.rsp
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Helpers.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Mvc.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Razor.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Razor.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.xml
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.SqlServer.xml
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Razor.xml
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.xml
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Razor.xml
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Helpers.xml
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Mvc.xml
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.csproj.CopyComplete
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.dll
+C:\Users\maria\Desktop\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.pdb
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\TestCinema.dll.config
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\TestCinema.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\TestCinema.pdb
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\csc.exe
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\csc.exe.config
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\csc.rsp
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\csi.exe
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\csi.exe.config
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\csi.rsp
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.Managed.Core.targets
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.AppContext.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Collections.Immutable.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Console.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.Compression.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.FileSystem.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.Pipes.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Reflection.Metadata.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.AccessControl.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Claims.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Principal.Windows.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.ValueTuple.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.XmlDocument.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.XPath.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\vbc.exe
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\vbc.exe.config
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\vbc.rsp
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\VBCSCompiler.exe
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\roslyn\VBCSCompiler.exe.config
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.SqlServer.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\Microsoft.Web.Infrastructure.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Helpers.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Mvc.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Razor.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Deployment.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Razor.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.xml
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.SqlServer.xml
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Razor.xml
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.xml
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Deployment.xml
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Razor.xml
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Helpers.xml
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\System.Web.Mvc.xml
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.csprojAssemblyReference.cache
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.csproj.CoreCompileInputs.cache
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.csproj.CopyComplete
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.dll
+D:\downl\iip\Pr_ii_v2\Pr_ii_v2\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.pdb
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\TestCinema.dll.config
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\TestCinema.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\TestCinema.pdb
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\csc.exe
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\csc.exe.config
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\csc.rsp
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\csi.exe
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\csi.exe.config
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\csi.rsp
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.AppContext.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Console.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.Compression.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.Pipes.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Claims.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.ValueTuple.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\vbc.exe
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\vbc.exe.config
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\vbc.rsp
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Helpers.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Mvc.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Razor.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Razor.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.xml
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.SqlServer.xml
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Razor.xml
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.xml
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Razor.xml
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Helpers.xml
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Mvc.xml
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.csproj.CopyComplete
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.dll
+C:\Users\maria\Desktop\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.pdb
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\TestCinema.dll.config
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\TestCinema.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\TestCinema.pdb
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\csc.exe
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\csc.exe.config
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\csc.rsp
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\csi.exe
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\csi.exe.config
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\csi.rsp
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.Managed.Core.targets
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.AppContext.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Collections.Immutable.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Console.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.Compression.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.FileSystem.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.IO.Pipes.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Reflection.Metadata.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.AccessControl.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Claims.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Security.Principal.Windows.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.ValueTuple.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.XmlDocument.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.XPath.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\vbc.exe
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\vbc.exe.config
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\vbc.rsp
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\VBCSCompiler.exe
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\roslyn\VBCSCompiler.exe.config
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.SqlServer.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\Microsoft.Web.Infrastructure.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Helpers.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Mvc.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Razor.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Deployment.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Razor.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.xml
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\EntityFramework.SqlServer.xml
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Razor.xml
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.xml
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Deployment.xml
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Webpages.Razor.xml
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Helpers.xml
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\System.Web.Mvc.xml
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.csprojAssemblyReference.cache
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.csproj.CoreCompileInputs.cache
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.csproj.CopyComplete
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.dll
+D:\downl\iip\New folder\Pr_ii_final\Pr_ii_v3\Pr_ii_v3\TestCinema1\TestCinema\TestCinema\obj\Debug\TestCinema.pdb

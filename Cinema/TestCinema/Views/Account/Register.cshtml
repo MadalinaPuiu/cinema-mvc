@@ -1,0 +1,137 @@
+﻿@model TestCinema.Models.UserModel
+@{
+    ViewBag.Title = "Register";
+}
+
+
+
+<fieldset>
+    <legend style=" position: center;
+        padding: 100px;
+        text-align: center;
+        background-color: whitesmoke;
+        font-size:100px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-size-adjust: 200% auto;">User Registration</legend>
+    @using (Html.BeginForm("Register","Account",FormMethod.Post)) {
+    <table>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.FirstName)
+            </td>
+            <td>
+                @Html.TextBoxFor(model => model.FirstName)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+
+            </td>
+            <td>
+                @Html.ValidationMessageFor(model => model.FirstName, null, new { @class = "text text-danger" })
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.LastName)
+            </td>
+            <td>
+                @Html.TextBoxFor(model => model.LastName)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+
+            </td>
+            <td>
+                @Html.ValidationMessageFor(model => model.LastName, null, new { @class = "text text-danger" })
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.Email)
+            </td>
+            <td>
+                @Html.TextBoxFor(model => model.Email)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+
+            </td>
+            <td>
+                @Html.ValidationMessageFor(model => model.Email, null, new { @class = "text text-danger" })
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.Password)
+            </td>
+            <td>
+                @Html.PasswordFor(model => model.Password)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+
+            </td>
+            <td>
+                @Html.ValidationMessageFor(model => model.Password, null, new { @class = "text text-danger" })
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.ConfirmPassword)
+            </td>
+            <td>
+                @Html.PasswordFor(model => model.ConfirmPassword)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+
+            </td>
+            <td>
+                @Html.ValidationMessageFor(model => model.ConfirmPassword, null, new { @class = "text text-danger" })
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+
+            </td>
+
+            <td>
+                <table>
+                    <tr>
+                        <td>
+                            <input type="submit" value="Register" />
+
+                        </td>
+                        <td>
+                            <input type="reset" value="Reset" />
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>
+                @Html.ValidationMessage("Error", null, new { @class = "text text-danger" })
+            </td>
+        </tr>
+
+    </table>
+    }
+</fieldset>

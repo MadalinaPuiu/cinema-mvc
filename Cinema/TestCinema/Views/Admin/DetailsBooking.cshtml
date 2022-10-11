@@ -1,0 +1,40 @@
+﻿@model TestCinema.DBModels.Booking
+
+@{
+    ViewBag.Title = "DetailsBooking";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 style=" position: center;
+        padding: 100px;
+        text-align: center;
+        background-color: whitesmoke;
+        font-size:100px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-size-adjust: 200% auto;">DetailsBooking</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProgramId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProgramId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "EditBooking", new { id = Model.BookingId }, new { @class = "btn btn-info btn-large" }) |
+    @Html.ActionLink("Back to List", "Bookings",null, new { @class = "btn btn-info btn-large" })
+</p>

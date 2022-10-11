@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Cinema Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body >
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Cinema", "Index", "Admin", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        @Html.ActionLink("Home", "Index", "Admin", null, null)
+
+                    </li>
+
+                    <li>
+                        @Html.ActionLink("Movies", "AllMovies", "Admin", null, null)
+
+                    </li>
+
+                    <li>
+                        @Html.ActionLink("About", "About", "Admin", null, null)
+
+                    </li>
+                    <li>
+                        @Html.ActionLink("Contact", "Contact", "Admin", null, null)
+
+                    </li>
+
+                    <li>
+                        @Html.ActionLink("Users DB", "Users", "Admin", null, null)
+
+                    </li>
+
+                    <li>
+                        @Html.ActionLink("Movies DB", "Movies", "Admin", null, null)
+
+                    </li>
+
+                    <li>
+                        @Html.ActionLink("Movies Schedule DB", "Programs", "Admin", null, null)
+
+                    </li>
+
+                    <li>
+                        @Html.ActionLink("Movies Booking DB", "Bookings", "Admin", null, null)
+
+                    </li>
+
+                </ul>
+                @Html.Partial("_loginPartial")
+            </div>
+
+        </div>
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

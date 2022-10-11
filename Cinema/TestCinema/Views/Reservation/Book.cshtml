@@ -1,0 +1,127 @@
+﻿@model TestCinema.Models.ReservationModel
+
+@{
+    ViewBag.Title = "Book";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2  style=" position: center;
+        padding: 100px;
+        text-align: center;
+        background-color: whitesmoke;
+        font-size:100px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-size-adjust: 200% auto;">Book</h2>
+
+@using (Html.BeginForm("Book", "Reservation", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>ReservationModel</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Id)
+
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PhoneNr, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PhoneNr, new { htmlAttributes = new { @type = "tel", @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PhoneNr, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.MovieName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.MovieName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.MovieName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ReservationDate, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ReservationDate, new { htmlAttributes = new { @class = "form-control", @placeholder="yyyy-mm-dd" } })
+                @Html.ValidationMessageFor(model => model.ReservationDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.StartHour, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.StartHour, new { htmlAttributes = new {  @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.StartHour, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.SeatNr, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.SeatNr, new { htmlAttributes = new { @class = "form-control", @min = "1", @max = "200" } })
+                @Html.ValidationMessageFor(model => model.SeatNr, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Price, htmlAttributes: new { @class = "control-label col-md-2"})
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Price, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Price, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Book Now" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+
+    
+            @Html.ValidationMessage("Error", null, new { @class = "text text-danger" })
+
+    <!--
+    <div>
+        <h4>Movie Program :</h4>
+
+        <div style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+            <table class="table">
+                <tr>
+                    <th>
+                        Auditorium
+                    </th>
+                    <th>
+                        Hour
+                    </th>
+
+                    <th></th>
+                </tr>
+
+
+
+
+
+
+
+            </table>
+        </div>
+    </div>
+        -->
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

@@ -1,0 +1,70 @@
+﻿@model IEnumerable<TestCinema.DBModels.Movy>
+
+@{
+    ViewBag.Title = "Movies";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 style=" position: center;
+        padding: 100px;
+        text-align: center;
+        background-color: whitesmoke;
+        font-size:100px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-size-adjust: 200% auto;">Movies</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CreateMovie", null, new { @class = "btn btn-info btn-large" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MovieId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rating)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Duration)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Year)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MovieId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Rating)
+        </td>
+        <td>
+            @Html.DisplayTextFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Duration)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Year)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "EditMovie", new { id = item.MovieId }, new { @class = "btn btn-info btn-large" }) 
+            @Html.ActionLink("Details", "DetailsMovie", new { id = item.MovieId }, new { @class = "btn btn-info btn-large" }) 
+            @Html.ActionLink("Delete", "DeleteMovie", new { id = item.MovieId }, new { @class = "btn btn-info btn-large" })
+        </td>
+    </tr>
+}
+
+</table>

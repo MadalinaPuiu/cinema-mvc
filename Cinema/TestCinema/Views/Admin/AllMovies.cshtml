@@ -1,0 +1,95 @@
+﻿@model IEnumerable<TestCinema.DBModels.Movy>
+
+@{
+    ViewBag.Title = "AllMovies";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 style=" position: center;
+        padding: 100px;
+        text-align: center;
+        background-color: whitesmoke;
+        font-size:100px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-size-adjust: 200% auto;">
+    All Movies here
+</h2>
+
+
+<div style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     padding-top:50px;
+     font-size:18px;">
+    <p>
+        @using (Html.BeginForm("AllMovies", "Admin", FormMethod.Get))
+        {
+
+            <text> Search a movie: </text> @Html.TextBox("SearchName") <input type="submit" value="Search" class="btn btn-default btn-lg"/>
+
+            <br />
+            <b>Sort by:</b>
+            @Html.RadioButton("sortBy", "Name", true)<text>  Name</text>
+            @Html.RadioButton("sortBy", "Year")<text>  Year</text>
+            @Html.RadioButton("sortBy", "Rating")<text>  Rating</text>
+            <br />
+            <b>Order:</b>
+            @Html.RadioButton("orderBy", "Ascending", true)<text>  Ascending</text>
+            @Html.RadioButton("orderBy", "Descending")<text>  Descending</text>
+        }
+    </p>
+</div>
+
+<div style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+    <table class="table">
+        <tr>
+            <th>
+
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rating)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Duration)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Year)
+            </th>
+            <th></th>
+        </tr>
+
+        @if (Model.Count() == 0)
+        {
+            <tr>
+                <td colspan="3">Sorry. No rows match search criteria.</td>
+            </tr>
+        }
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="@Url.Content(item.ImagePath)" width="250" height="300" />
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rating)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Duration)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Year)
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
